@@ -1,0 +1,9 @@
+$ ./mccabe.sh test
+   4 bothNonZero_2() test.c:42
+   4 bothNonZero_1() test.c:32
+   3 c4_bothtrue() test.c:27
+   3 c3_min() test.c:17
+   2 c2_min() test.c:12
+   2 bothNonZero_3() test.c:50
+   1 c1_redirect() test.c:6
+   1 c1_direct() test.c:2
